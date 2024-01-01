@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **everything about data (Spark, Azure, Databricks etc)💕**
 
-- 💬 Ask me about **Data Engineering**
+- 💬 Ask me about: **Data Engineering**
 
-- 📫 How to reach me **vitoriarleonardo@gmail.com**
+- 📫 How to reach me: **vitoriarleonardo@gmail.com**
 
-- ⚡ Fun fact **I'm great learner and joker so let's laugh together while programming 😎**
+- ⚡ Fun fact: **I'm great learner and joker so let's laugh together while programming 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
