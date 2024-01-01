@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://i.pinimg.com/564x/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.jpg)" />
+  <img src="http://some_place.com/image.png](https://i.pinimg.com/564x/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.jpg" />
 </p>
 <h1 align="center">Hi 👋, I'm Vitória! Pleasure to meet you 😊 (or not? 🫣)</h1>
 <h3 align="center">I'm hungry for knowledge (and a delicious tapioca de frango com catupiry e molho de alho yeah if you're brazilian you'll understand me 😉)</h3>
